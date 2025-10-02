@@ -18,7 +18,7 @@ const ProjectsPage = () => {
       description:
         "Microservices-based car rental platform with user and admin modules, supporting car bookings, payments, and city-based availability.",
       image: car_rental,
-      youtube: "https://github.com/krishna9325/Car-Rental",
+      youtube: "https://youtu.be/WWpqY9cMH_U",
       githubUrl: "https://github.com/krishna9325/Car-Rental/tree/docker-branch",
       technologies: [
         "Java",
@@ -51,7 +51,7 @@ const ProjectsPage = () => {
       description:
         "Android application to track stock breakouts with real-time charts, progress tracking, and admin dashboard for content management.",
       image: stockImg,
-      youtube: "https://play.google.com/store/apps/details?id=com.yourapp3",
+      youtube: "https://youtube.com/shorts/4LGBgjQ65-o?feature=share",
       githubUrl: "https://github.com/krishna9325/stock-market.git",
       technologies: [
         "Android",

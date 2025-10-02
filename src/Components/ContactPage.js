@@ -129,7 +129,7 @@ const ContactPage = () => {
 
                 <div className="mt-4 pt-4 border-top border-light border-opacity-25">
                   <a
-                    href="/resume.pdf"
+                    href="./krishna_resume.pdf"
                     download
                     className="btn btn-warning d-flex align-items-center gap-2 w-100 justify-content-center"
                   >

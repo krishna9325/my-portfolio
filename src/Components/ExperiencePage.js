@@ -29,6 +29,7 @@ const ExperiencePage = () => {
         "Built monitoring dashboard (InfiniBand, GPU, memory, containers, nodes), reducing troubleshooting by 87%.",
         "Designed cron-driven rsync pipeline with retries, logging, and pause/resume, removing manual monitoring.",
         "Created Python client for image server, enabling non-browser access and reducing workflow dependency.",
+        "Dockerized two web services — Image Server and Data Management System (DMS) — in a distributed environment",
       ],
     },
     {
